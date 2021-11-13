@@ -21,7 +21,7 @@ def index():
 		add_to_file(ip)
 	list_of_ip = display_list_of_ip()
 	# https://www.simplilearn.com/tutorials/python-tutorial/list-to-string-in-python
-	return "twoje ip: {}, odwiedziło nas {}".format(ip, ' '.join(list_of_ip))
+	return "Your ip: {}, visited by {}".format(ip, ' '.join(list_of_ip))
 
 
 def get_ip():
