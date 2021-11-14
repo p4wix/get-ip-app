@@ -26,7 +26,7 @@ The website by default is accessible at http://localhost:5000/
 Before running you need to install all the necessary libs from the text file `requirments.txt`
 following this command
 ```shell
-$ pip install -r requirments.txt
+$ pip install -r requirements.txt
 ```
 
 ```shell
