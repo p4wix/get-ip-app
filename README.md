@@ -16,7 +16,7 @@ To use this template, your computer needs:
 #### Getting started:
 
 ```sh
-$ git clone https://github.com/apka
+$ git clone https://github.com/p4wix/get-ip-app.git
 ```
 
 ### Launching the app without using the docker container
